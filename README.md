@@ -1,74 +1,131 @@
-# 👋 Hi, I'm Kunal JS
+<!-- ================= HERO ================= -->
 
-🚀 **AI + IoT Developer | Building Smart Systems**
-💡 Passionate about automation, real-world problem solving & innovative tech
+<h1 align="center">⚡ Kunal JS</h1>
 
----
+<p align="center">
+  <b>AI + IoT Developer</b> • Smart Systems Builder
+</p>
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Building+AI+%2B+IoT+Projects;Designing+Future+Tech;Creating+Smart+Solutions" />
+</p>
 
-* 🔭 Currently working on **IoT Air Quality Monitoring System**
-* 🤖 Exploring **AI + Smart Assistants (Nova AI)**
-* 🌐 Building **modern web apps using TypeScript**
-* ⚡ Goal: Create impactful tech that solves real problems
-
----
-
-## 🛠️ Tech Stack
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= GLASS ABOUT ================= -->
 
-### 🌿 IoT Air Quality Monitoring System
+<h2 align="center">🧠 About Me</h2>
 
-* Uses **Arduino UNO + DHT11 + MQ135**
-* Real-time air quality tracking
-* Future scope: Cloud dashboard + alerts
-
----
-
-### 🤖 Nova AI Assistant
-
-* Voice + Text based AI assistant
-* Smart automation features
-* Future: OS-level integration
+<p align="center">
+  🔭 <b>IoT Air Quality Monitoring System</b><br>
+  🤖 <b>Nova AI Assistant (Voice + Automation)</b><br>
+  🌐 <b>Modern Web UI/UX (TypeScript)</b><br>
+  ⚡ <b>Goal:</b> Build impactful real-world tech
+</p>
 
 ---
 
-### 📚 LearnFlow Portal
+<!-- ================= TECH STACK ================= -->
 
-* Web-based learning platform
-* Built with **TypeScript**
-* Clean UI + scalable structure
+<h2 align="center">⚙️ Tech Stack</h2>
 
----
-
-## 📊 GitHub Stats
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal-js-dev\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-js-dev\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,ts,js,html,css,git,github" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ================= PROJECT CARDS ================= -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunal-js-dev\&theme=tokyonight)
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-js-dev&repo=learnflow-portal&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ================= CUSTOM PROJECT GRID ================= -->
 
-📧 [kunalkunal2915@gmail.com](mailto:kunalkunal2915@gmail.com)
+<h3 align="center">🌿 IoT Air Quality Monitoring</h3>
+
+<p align="center">
+📡 Sensors: DHT11 + MQ135 <br>
+📊 Real-time monitoring <br>
+☁️ Future: Cloud dashboard + alerts
+</p>
 
 ---
 
-## ⚡ Fun Fact
+<h3 align="center">🤖 Nova AI Assistant</h3>
 
-💡 I love turning ideas into real working systems using AI & IoT
+<p align="center">
+🎤 Voice + Text interaction <br>
+⚙️ Automation system <br>
+🧠 Future: OS-level assistant
+</p>
+
+---
+
+<h3 align="center">📚 LearnFlow Portal</h3>
+
+<p align="center">
+🌐 Web learning platform <br>
+⚡ TypeScript-based architecture <br>
+🎨 Clean UI/UX
+</p>
+
+---
+
+<!-- ================= STATS ================= -->
+
+<h2 align="center">📊 Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-js-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-js-dev&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<!-- ================= STREAK ================= -->
+
+<h2 align="center">🔥 Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunal-js-dev&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">🌐 Connect</h2>
+
+<p align="center">
+  📧 <a href="mailto:kunalkunal2915@gmail.com">kunalkunal2915@gmail.com</a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <i>⚡ “Turning ideas into intelligent systems”</i>
+</p>
