@@ -1,28 +1,30 @@
-<!-- ================= LEGENDARY SYSTEM CORE ================= -->
+<!-- ================= HERO ================= -->
 
-<h1 align="center">⚡ KUNAL.JS // LEGENDARY SYSTEM</h1>
+<h1 align="center">⚡ KUNAL.JS</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=AI+%2B+IoT+Architect;Building+Intelligent+Systems;Future+Tech+Creator;System+Status%3A+EVOLVING" />
+  <b>AI + IoT Developer • Smart Systems Architect</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=SYSTEM+VISITS&color=00f7ff&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Building+AI+%2B+IoT+Projects;Designing+Future+Tech;System+Status%3A+EVOLVING" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=VISITS&color=00f7ff&style=flat" />
 </p>
 
 ---
 
-<!-- ================= PLAYER PROFILE ================= -->
+<!-- ================= GLASS PROFILE ================= -->
 
-<h2 align="center">🎮 PLAYER.PROFILE</h2>
+<h2 align="center">🧊 PROFILE.CARD</h2>
 
 <p align="center">
-
-🧑‍💻 **Name:** Kunal JS
-🧠 **Class:** AI + IoT Developer
-⚡ **Level:** 07 (Rapidly Increasing...)
-🔥 **XP:** Building Real-World Projects
-
+  🧑‍💻 <b>Name:</b> Kunal JS <br>
+  🧠 <b>Role:</b> AI + IoT Developer <br>
+  🎮 <b>Level:</b> 07 <br>
+  ⚡ <b>XP:</b> Building real-world systems  
 </p>
 
 ---
@@ -31,7 +33,7 @@
 
 <h2 align="center">🌌 SKILL.TREE</h2>
 
-```diff id="u1t9ep"
+```diff
 + AI Systems        ███████░░░
 + IoT Development   ████████░░
 + Web Development   ███████░░░
@@ -41,27 +43,34 @@
 
 ---
 
-<!-- ================= CURRENT QUEST ================= -->
+<!-- ================= ABOUT ================= -->
 
-<h2 align="center">🧩 CURRENT.QUEST</h2>
+<h2 align="center">🧠 ABOUT.SYSTEM</h2>
 
-```bash id="wrhm0t"
-> Mission Active:
+```bash
+> Current Missions:
 
-[1] IoT Air Quality Monitoring System
-    - Real-time sensor analytics
-    - Hardware: Arduino + DHT11 + MQ135
-    - Next: Cloud dashboard integration
+- 🌿 IoT Air Quality Monitoring System
+- 🤖 Nova AI Assistant (Voice + Automation)
+- 🌐 Modern Web UI (TypeScript)
 
-[2] Nova AI Assistant
-    - Voice + text interaction
-    - Automation engine
-    - Goal: Full OS-level assistant
+> Objective:
+Build scalable, real-world intelligent systems
 ```
 
 ---
 
-<!-- ================= PROJECT ARENA ================= -->
+<!-- ================= TECH ================= -->
+
+<h2 align="center">⚙️ TECH.MATRIX</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,ts,js,html,css,git,github" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
 
 <h2 align="center">⚔️ PROJECT.ARENA</h2>
 
@@ -71,22 +80,30 @@
 
 🌿 **Air Quality System**
 
-```yaml id="k2bh4i"
+```yaml
 status: active
-type: IoT
-impact: environmental monitoring
+tech: Arduino + Sensors
+feature: real-time monitoring
+future: cloud dashboard
 ```
+
+🔗 [Repo](https://github.com/kunal-js-dev)
+🚀 [Live](https://your-demo-link.com)
 
 </td>
+
 <td align="center">
 
-🤖 **Nova AI**
+🤖 **Nova AI Assistant**
 
-```yaml id="z0k6u9"
-status: evolving
-type: AI assistant
-focus: automation
+```yaml
+mode: voice + text
+core: automation system
+future: OS-level integration
 ```
+
+🔗 [Repo](https://github.com/kunal-js-dev)
+🚀 [Live](https://your-demo-link.com)
 
 </td>
 </tr>
@@ -96,21 +113,25 @@ focus: automation
 
 📚 **LearnFlow Portal**
 
-```yaml id="m9x3da"
-status: deployed
+```yaml
 type: web app
 stack: TypeScript
+design: clean UI
 ```
 
+🔗 [Repo](https://github.com/kunal-js-dev/learnflow-portal)
+🚀 [Live](https://learnflow-portal.vercel.app)
+
 </td>
+
 <td align="center">
 
-🚀 **Next Systems**
+🚀 **Next Projects**
 
-```yaml id="1flz2s"
+```yaml
 AI + IoT fusion
-smart dashboards
 automation tools
+smart dashboards
 ```
 
 </td>
@@ -119,9 +140,9 @@ automation tools
 
 ---
 
-<!-- ================= LIVE ANALYTICS ================= -->
+<!-- ================= STATS ================= -->
 
-<h2 align="center">📊 LIVE.ANALYTICS</h2>
+<h2 align="center">📊 SYSTEM.ANALYTICS</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal-js-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -130,30 +151,26 @@ automation tools
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+<!-- ================= STREAK ================= -->
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-```css id="yqj2cn"
-✔ Built IoT-based real-world system
-✔ Developed AI assistant architecture
-✔ Created scalable web applications
-✔ Continuous learning & building
-```
-
----
-
-<!-- ================= ACTIVITY ================= -->
-
-<h2 align="center">🔥 SYSTEM.ACTIVITY</h2>
+<h2 align="center">🔥 ACTIVITY.STREAK</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kunal-js-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+```css
+✔ Built IoT real-world project
+✔ Developing AI assistant system
+✔ Created scalable web apps
+✔ Continuous learning mindset
+```
 
 ---
 
@@ -167,7 +184,7 @@ automation tools
 
 ---
 
-<!-- ================= FINAL STATUS ================= -->
+<!-- ================= FINAL ================= -->
 
 <h2 align="center">⚡ SYSTEM.STATUS</h2>
 
