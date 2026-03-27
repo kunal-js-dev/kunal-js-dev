@@ -1,46 +1,82 @@
-<!-- ================= HERO ================= -->
+import React from "react";
 
-<h1 align="center">⚡ KUNAL.JS</h1>
+const projects = [ { title: "🌿 Air Quality System", desc: "IoT Monitoring using Arduino (DHT11 + MQ135)", repo: "https://github.com/kunal-js-dev/air-quality-monitor", demo: "https://your-air-quality-demo.vercel.app" }, { title: "🤖 Nova AI", desc: "Voice + Automation Assistant", repo: "https://github.com/kunal-js-dev/nova-ai", demo: "https://your-nova-ai-demo.vercel.app" }, { title: "📚 LearnFlow Portal", desc: "Web learning platform built with TypeScript", repo: "https://github.com/kunal-js-dev/learnflow-portal", demo: "https://learnflow-portal.vercel.app" } ];
 
-<p align="center">
-  <b>AI + IoT Developer • Smart Systems Architect</b>
-</p>
+export default function Portfolio() { return ( <div className="min-h-screen bg-black text-cyan-400 font-mono p-6"> {/* HERO */} <div className="text-center mb-10"> <h1 className="text-4xl font-bold">⚡ KUNAL.JS</h1> <p className="text-lg mt-2">AI + IoT Developer • Smart Systems Builder</p> </div>
 
-<p align="center">
-  <a href="https://github.com/kunal-js-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/kunal-j-s-8b4227384">LinkedIn</a>
-</p>
+{/* PLAYER PROFILE */}
+  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
+    <h2 className="text-xl mb-2">🎮 PLAYER PROFILE</h2>
+    <p>Name: Kunal JS</p>
+    <p>Class: AI + IoT Developer</p>
+    <p>Level: 07</p>
+  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Building+AI+%2B+IoT+Projects;Designing+Future+Tech;System+Status%3A+EVOLVING" />
-</p>
+  {/* SKILLS */}
+  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
+    <h2 className="text-xl mb-2">🌌 SKILL TREE</h2>
+    <ul>
+      <li>AI Systems ███████░░░</li>
+      <li>IoT Dev ████████░░</li>
+      <li>Web Dev ███████░░░</li>
+    </ul>
+  </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=VISITS&color=00f7ff&style=flat" />
-</p>
+  {/* PROJECTS */}
+  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
+    <h2 className="text-xl mb-4">⚔️ PROJECT ARENA</h2>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      {projects.map((p, i) => (
+        <div key={i} className="border border-cyan-400 p-4 rounded-xl hover:shadow-[0_0_15px_cyan] transition">
+          <h3 className="text-lg font-bold mb-2">{p.title}</h3>
+          <p className="mb-3">{p.desc}</p>
 
----
+          <div className="flex gap-3">
+            <a
+              href={p.repo}
+              target="_blank"
+              rel="noreferrer"
+              className="px-3 py-1 border border-cyan-400 rounded hover:bg-cyan-400 hover:text-black"
+            >
+              🔗 Repo
+            </a>
 
-<!-- ================= PROFILE ================= -->
+            <a
+              href={p.demo}
+              target="_blank"
+              rel="noreferrer"
+              className="px-3 py-1 border border-green-400 rounded hover:bg-green-400 hover:text-black"
+            >
+              🚀 Live
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
 
-<h2 align="center">🧊 PROFILE.CARD</h2>
+  {/* CONTACT */}
+  <div className="text-center mt-10 space-y-3">
+    <p>📧 kunalkunal2915@gmail.com</p>
 
-<p align="center">
-  🧑‍💻 <b>Name:</b> Kunal JS <br>
-  🧠 <b>Role:</b> AI + IoT Developer <br>
-  🎮 <b>Level:</b> 07 <br>
-  ⚡ <b>XP:</b> Building real-world systems  
-</p>
+    <div className="flex justify-center gap-4">
+      <a
+        href="https://www.linkedin.com/in/kunal-j-s-8b4227384"
+        target="_blank"
+        rel="noreferrer"
+        className="px-4 py-2 border border-blue-400 rounded-xl backdrop-blur-md bg-white/5 hover:bg-blue-400 hover:text-black hover:shadow-[0_0_20px_#60a5fa] transition"
+      >
+        🔗 LinkedIn
+      </a>
 
----
+      <a
+        href="mailto:kunalkunal2915@gmail.com"
+        className="px-4 py-2 border border-cyan-400 rounded-xl backdrop-blur-md bg-white/5 hover:bg-cyan-400 hover:text-black hover:shadow-[0_0_20px_cyan] transition"
+      >
+        📧 Email
+      </a>
+    </div>
+  </div>
+</div>
 
-<!-- ================= SKILL TREE ================= -->
-
-<h2 align="center">🌌 SKILL.TREE</h2>
-
-```diff
-+ AI Systems        ███████░░░
-+ IoT Development   ████████░░
-+ Web Development   ███████░░░
-+ Automation        █████████░
-+ Problem Solving   ██████████
+); }
