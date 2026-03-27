@@ -1,74 +1,194 @@
-# 👋 Hi, I'm Kunal JS
+<!-- ================= HERO ================= -->
 
-🚀 **AI + IoT Developer | Building Smart Systems**
-💡 Passionate about automation, real-world problem solving & innovative tech
+<h1 align="center">⚡ KUNAL.JS</h1>
 
----
+<p align="center">
+  <b>AI + IoT Developer • Smart Systems Architect</b>
+</p>
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Building+AI+%2B+IoT+Projects;Designing+Future+Tech;System+Status%3A+EVOLVING" />
+</p>
 
-* 🔭 Currently working on **IoT Air Quality Monitoring System**
-* 🤖 Exploring **AI + Smart Assistants (Nova AI)**
-* 🌐 Building **modern web apps using TypeScript**
-* ⚡ Goal: Create impactful tech that solves real problems
-
----
-
-## 🛠️ Tech Stack
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=VISITS&color=00f7ff&style=flat" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= GLASS PROFILE ================= -->
 
-### 🌿 IoT Air Quality Monitoring System
+<h2 align="center">🧊 PROFILE.CARD</h2>
 
-* Uses **Arduino UNO + DHT11 + MQ135**
-* Real-time air quality tracking
-* Future scope: Cloud dashboard + alerts
-
----
-
-### 🤖 Nova AI Assistant
-
-* Voice + Text based AI assistant
-* Smart automation features
-* Future: OS-level integration
+<p align="center">
+  🧑‍💻 <b>Name:</b> Kunal JS <br>
+  🧠 <b>Role:</b> AI + IoT Developer <br>
+  🎮 <b>Level:</b> 07 <br>
+  ⚡ <b>XP:</b> Building real-world systems  
+</p>
 
 ---
 
-### 📚 LearnFlow Portal
+<!-- ================= SKILL TREE ================= -->
 
-* Web-based learning platform
-* Built with **TypeScript**
-* Clean UI + scalable structure
+<h2 align="center">🌌 SKILL.TREE</h2>
 
----
-
-## 📊 GitHub Stats
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal-js-dev\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-js-dev\&layout=compact\&theme=tokyonight)
+```diff
++ AI Systems        ███████░░░
++ IoT Development   ████████░░
++ Web Development   ███████░░░
++ Automation        █████████░
++ Problem Solving   ██████████
+```
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ================= ABOUT ================= -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunal-js-dev\&theme=tokyonight)
+<h2 align="center">🧠 ABOUT.SYSTEM</h2>
+
+```bash
+> Current Missions:
+
+- 🌿 IoT Air Quality Monitoring System
+- 🤖 Nova AI Assistant (Voice + Automation)
+- 🌐 Modern Web UI (TypeScript)
+
+> Objective:
+Build scalable, real-world intelligent systems
+```
 
 ---
 
-## 🌐 Connect With Me
+<!-- ================= TECH ================= -->
 
-📧 [kunalkunal2915@gmail.com](mailto:kunalkunal2915@gmail.com)
+<h2 align="center">⚙️ TECH.MATRIX</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,ts,js,html,css,git,github" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+<!-- ================= PROJECTS ================= -->
 
-💡 I love turning ideas into real working systems using AI & IoT
+<h2 align="center">⚔️ PROJECT.ARENA</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🌿 **Air Quality System**
+
+```yaml
+status: active
+tech: Arduino + Sensors
+feature: real-time monitoring
+future: cloud dashboard
+```
+
+🔗 [Repo](https://github.com/kunal-js-dev)
+🚀 [Live](https://your-demo-link.com)
+
+</td>
+
+<td align="center">
+
+🤖 **Nova AI Assistant**
+
+```yaml
+mode: voice + text
+core: automation system
+future: OS-level integration
+```
+
+🔗 [Repo](https://github.com/kunal-js-dev)
+🚀 [Live](https://your-demo-link.com)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+📚 **LearnFlow Portal**
+
+```yaml
+type: web app
+stack: TypeScript
+design: clean UI
+```
+
+🔗 [Repo](https://github.com/kunal-js-dev/learnflow-portal)
+🚀 [Live](https://learnflow-portal.vercel.app)
+
+</td>
+
+<td align="center">
+
+🚀 **Next Projects**
+
+```yaml
+AI + IoT fusion
+automation tools
+smart dashboards
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= STATS ================= -->
+
+<h2 align="center">📊 SYSTEM.ANALYTICS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-js-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-js-dev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ================= STREAK ================= -->
+
+<h2 align="center">🔥 ACTIVITY.STREAK</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunal-js-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+```css
+✔ Built IoT real-world project
+✔ Developing AI assistant system
+✔ Created scalable web apps
+✔ Continuous learning mindset
+```
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">🌐 CONNECT.NODE</h2>
+
+<p align="center">
+  📧 <a href="mailto:kunalkunal2915@gmail.com">kunalkunal2915@gmail.com</a>
+</p>
+
+---
+
+<!-- ================= FINAL ================= -->
+
+<h2 align="center">⚡ SYSTEM.STATUS</h2>
+
+<p align="center">
+  <b>MODE:</b> BUILD • LEARN • EVOLVE <br>
+  <b>VISION:</b> Creating Intelligent Systems for the Future  
+</p>
