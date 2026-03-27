@@ -84,3 +84,30 @@ STATUS:
 + Sensor Integration
 + Data Processing
 - Future: Cloud Alerts
+<!-- ================= SNAKE GAME MODULE ================= -->
+<h2 align="center">🎮 SYSTEM.GAME</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=Launching+Snake+Module...;Game+Engine+Ready...;Press+Start+to+Play" />
+</p>
+
+<p align="center">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/▶ PLAY_SNAKE_GAME-00f7ff?style=for-the-badge&logo=gamepad"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+</p>
+
+<pre>
+> GAME MODULE LOADED
+
+controls:
+  ↑ ↓ ← →  : movement
+  objective: grow snake, avoid collision
+
+status:
+  ▸ ready to launch
+</pre>
