@@ -1,82 +1,82 @@
-import React from "react";
+<!-- ================= SYSTEM HEADER ================= --><h1 align="center">⚡ KUNAL.JS // SYSTEM ACTIVE</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=AI+%2B+IoT+Engineer;Smart+System+Architect;Building+Future+Tech+Interfaces" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunal-js-dev&label=SYSTEM+VIEWS&color=00f7ff&style=flat" />
+</p>---
 
-const projects = [ { title: "🌿 Air Quality System", desc: "IoT Monitoring using Arduino (DHT11 + MQ135)", repo: "https://github.com/kunal-js-dev/air-quality-monitor", demo: "https://your-air-quality-demo.vercel.app" }, { title: "🤖 Nova AI", desc: "Voice + Automation Assistant", repo: "https://github.com/kunal-js-dev/nova-ai", demo: "https://your-nova-ai-demo.vercel.app" }, { title: "📚 LearnFlow Portal", desc: "Web learning platform built with TypeScript", repo: "https://github.com/kunal-js-dev/learnflow-portal", demo: "https://learnflow-portal.vercel.app" } ];
+<!-- ================= TERMINAL ABOUT ================= --><h2 align="center">🧠 SYSTEM.LOG</h2>> initializing profile...
 
-export default function Portfolio() { return ( <div className="min-h-screen bg-black text-cyan-400 font-mono p-6"> {/* HERO */} <div className="text-center mb-10"> <h1 className="text-4xl font-bold">⚡ KUNAL.JS</h1> <p className="text-lg mt-2">AI + IoT Developer • Smart Systems Builder</p> </div>
+name        : Kunal JS
+role        : AI + IoT Developer
+status      : building real-world intelligent systems
 
-{/* PLAYER PROFILE */}
-  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
-    <h2 className="text-xl mb-2">🎮 PLAYER PROFILE</h2>
-    <p>Name: Kunal JS</p>
-    <p>Class: AI + IoT Developer</p>
-    <p>Level: 07</p>
-  </div>
+current_task:
+  - IoT Air Quality Monitoring System
 
-  {/* SKILLS */}
-  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
-    <h2 className="text-xl mb-2">🌌 SKILL TREE</h2>
-    <ul>
-      <li>AI Systems ███████░░░</li>
-      <li>IoT Dev ████████░░</li>
-      <li>Web Dev ███████░░░</li>
-    </ul>
-  </div>
+exploring:
+  - Nova AI Assistant (Voice + Automation)
+  - Modern Web UI (TypeScript)
 
-  {/* PROJECTS */}
-  <div className="border border-cyan-500 p-4 rounded-2xl mb-6">
-    <h2 className="text-xl mb-4">⚔️ PROJECT ARENA</h2>
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-      {projects.map((p, i) => (
-        <div key={i} className="border border-cyan-400 p-4 rounded-xl hover:shadow-[0_0_15px_cyan] transition">
-          <h3 className="text-lg font-bold mb-2">{p.title}</h3>
-          <p className="mb-3">{p.desc}</p>
+mission:
+  > create impactful, scalable smart solutions
 
-          <div className="flex gap-3">
-            <a
-              href={p.repo}
-              target="_blank"
-              rel="noreferrer"
-              className="px-3 py-1 border border-cyan-400 rounded hover:bg-cyan-400 hover:text-black"
-            >
-              🔗 Repo
-            </a>
+---
 
-            <a
-              href={p.demo}
-              target="_blank"
-              rel="noreferrer"
-              className="px-3 py-1 border border-green-400 rounded hover:bg-green-400 hover:text-black"
-            >
-              🚀 Live
-            </a>
-          </div>
-        </div>
-      ))}
-    </div>
-  </div>
+<!-- ================= TECH MATRIX ================= --><h2 align="center">⚙️ TECH.MATRIX</h2><p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,ts,js,html,css,git,github,linux" />
+</p>---
 
-  {/* CONTACT */}
-  <div className="text-center mt-10 space-y-3">
-    <p>📧 kunalkunal2915@gmail.com</p>
+<!-- ================= PROJECT GRID ================= --><h2 align="center">🚀 PROJECT.NODES</h2><table align="center">
+<tr>
+<td align="center">🌿 Air Quality System
 
-    <div className="flex justify-center gap-4">
-      <a
-        href="https://www.linkedin.com/in/kunal-j-s-8b4227384"
-        target="_blank"
-        rel="noreferrer"
-        className="px-4 py-2 border border-blue-400 rounded-xl backdrop-blur-md bg-white/5 hover:bg-blue-400 hover:text-black hover:shadow-[0_0_20px_#60a5fa] transition"
-      >
-        🔗 LinkedIn
-      </a>
+hardware: Arduino + Sensors
+features: real-time monitoring
+future: cloud + alerts
 
-      <a
-        href="mailto:kunalkunal2915@gmail.com"
-        className="px-4 py-2 border border-cyan-400 rounded-xl backdrop-blur-md bg-white/5 hover:bg-cyan-400 hover:text-black hover:shadow-[0_0_20px_cyan] transition"
-      >
-        📧 Email
-      </a>
-    </div>
-  </div>
-</div>
+</td>
+<td align="center">🤖 Nova AI Assistant
 
-); }
+mode: voice + text
+core: automation engine
+future: OS-level integration
+
+</td>
+</tr><tr>
+<td align="center">📚 LearnFlow Portal
+
+type: web platform
+stack: TypeScript
+design: clean UI/UX
+
+</td>
+<td align="center">⚡ Future Projects
+
+AI + IoT fusion
+automation tools
+smart dashboards
+
+</td>
+</tr>
+</table>---
+
+<!-- ================= LIVE DASHBOARD ================= --><h2 align="center">📊 SYSTEM.ANALYTICS</h2><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-js-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-js-dev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>---
+
+<!-- ================= STREAK ================= --><h2 align="center">🔥 ACTIVITY.STREAK</h2><p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunal-js-dev&theme=tokyonight&hide_border=true" />
+</p>---
+
+<!-- ================= SNAKE ================= --><h2 align="center">🐍 SYSTEM.ACTIVITY</h2><p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>---
+
+<!-- ================= CONTACT ================= --><h2 align="center">🌐 CONNECT.NODE</h2><p align="center">
+  📧 <a href="mailto:kunalkunal2915@gmail.com">kunalkunal2915@gmail.com</a>
+</p>---
+
+<!-- ================= FOOTER ================= --><p align="center">
+  <b>⚡ STATUS:</b> <i>BUILDING THE FUTURE</i>
+</p>
